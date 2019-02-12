@@ -16,8 +16,8 @@
 <p>Try out what real work is like in the technology team at Bank & Merge Co. Fast track to the tech team with your work.</p>
 
 <h2 id="task"> Module 2 Task Overview </h2>
-<p>Use JP Morgan frameworks and tools
-Implement JP Morgan’s Perspective open source code in preparation for data visualization</p>
+<p>Use Bank&MergeCo's frameworks and tools
+Implement Bank&MergeCo’s Perspective open source code in preparation for data visualization</p>
 <p> <b>Aim:</b>Take an incomplete setup of Perspective and make it work with the code from Task 1</p>
 
 <ol>
